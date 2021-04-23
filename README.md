@@ -1,3 +1,6 @@
+
+Matplotlib
+
 <img src="doc/_static/logo-wide-lightbg.svg"><br>
 
 --------------------------------------
